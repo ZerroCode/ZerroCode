@@ -24,6 +24,8 @@ Welcome to my GitHub profile. I'm a motivated Computer Science student at Brookl
 ## **🚀 Projects I'm Working On**
 - **[Discord Arcade Bot](https://github.com/ZerroCode/discord-arcade-bot) - A Discord bot with challenges and interactive game boards.**
 - **Cuny Tech Prep Fall Project**
+- **Personal Website**
+- **Chrome Extension Project**
 - **Soon to be Cuny Tech Prep Spring Project**
 
 ## **🤝 Connect with me**
